@@ -1,0 +1,22 @@
+.l-main {
+  width: 100%;
+}
+.child {
+  position: absolute;
+  width: 50px;
+  height: 200px;
+  top: 500px;
+  left: 0;
+  background: pink;
+}
+.child2 {
+  position: absolute;
+  width: 50px;
+  height: 200px;
+  top: 2000px;
+  left: 0;
+  background: pink;
+}
+.inview {
+  background: olivedrab;
+}
